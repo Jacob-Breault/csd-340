@@ -1,2 +1,5 @@
-# csd-340
-Jacob Breault's CSD-340 GitHub Repository
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+  * Professor Sue Sampson
+  * Jacob Breault
+.
