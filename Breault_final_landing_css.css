@@ -1,0 +1,73 @@
+html {
+    background-color: aquamarine;
+}
+
+.grid-3-col {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 90%;
+    background-color:darkcyan;
+}
+
+#page-title {
+    text-align: center;
+    
+}
+
+.card-title {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2em;
+    color:greenyellow;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hobby-img {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.exp-img {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
+
+footer p {
+    float: right;
+    font-weight: 300;
+}
+
+.form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
